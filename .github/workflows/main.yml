@@ -42,7 +42,7 @@ jobs:
           echo
           echo what about build tools
           mvn --version
-          greadle --version
+          gradle --version
           ant -version
           
           
